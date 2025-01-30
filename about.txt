@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Honk
+- Font Title: Noto Sans Anatolian Hieroglyphs
 - Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/honk/v1/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgVLo7tNepQKvg.ttf
+- Font Source: https://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v16/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWXybIymc5QYo.ttf
 - Font License: undefined)
